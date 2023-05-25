@@ -5,8 +5,6 @@ package Patterns;
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-import Patterns.Operacion;
-
 /**
  *
  * @author tecnologynomads
